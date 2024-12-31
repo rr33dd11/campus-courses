@@ -1,0 +1,4 @@
+# Using technologies
+
+- EntityFramework
+- PostgreSQL
